@@ -60,6 +60,5 @@ const useStyles = makeStyles(() => ({
   },
   error: {
     color: 'red',
-    position: 'absolute',
   },
 }));
